@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Mochila",
+      "price": "290",
+      "id": 1
+    },
+    {
+      "name": "Batata",
+      "price": "20",
+      "id": 2
+    },
+    {
+      "name": "Calça",
+      "price": "120",
+      "id": 3
+    }
+  ]
+}
