@@ -35,3 +35,15 @@
   text-transform: uppercase;
   margin-bottom: 20px;
 }
+
+.details {
+  text-decoration: none;
+  color: #ccc;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.details:hover {
+  color: #fff;
+  text-decoration: underline;
+}
